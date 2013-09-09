@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/sixDOF.o\
+$(OBJECTS_DIR)/sixDOFFunctionObject.o

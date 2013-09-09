@@ -1,0 +1,6 @@
+# 1 "files"
+# 1 "<línea-de-orden>"
+# 1 "files"
+sixDOF.C
+sixDOFFunctionObject.C
+LIB = $(FOAM_USER_LIBBIN)/libsixDOF

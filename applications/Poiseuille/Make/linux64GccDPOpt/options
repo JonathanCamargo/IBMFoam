@@ -1,0 +1,8 @@
+# 1 "options"
+# 1 "<línea-de-orden>"
+# 1 "options"
+EXE_INC = -I../../src/lnInclude 
+
+
+
+EXE_LIBS = -L$(FOAM_USER_LIBBIN) -libmethod

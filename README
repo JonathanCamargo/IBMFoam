@@ -1,0 +1,19 @@
+Change log release v1.0
+-----------------------------------------------------------
+
+> folder "applications" created to separate library from app
+> Make folder for easy compilation with openfoam's wmake command
+
+
+
+
+
+
+General How To
+------------------------------------------------------------
+src folder contains source code for ibm exporting as a library libibmethod.so
+applications folder contains a sample application using poisseuille flow
+
+compile and enjoy.
+
+

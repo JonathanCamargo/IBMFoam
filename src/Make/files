@@ -1,0 +1,7 @@
+elemento.C
+fronteras.C
+ibm.C
+mesh.C
+fluid.C
+
+LIB=$(FOAM_USER_LIBBIN)/libibmethod
