@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+#Dependencies
+*.dep
+linux64GccOpt
+linuxGccOpt
