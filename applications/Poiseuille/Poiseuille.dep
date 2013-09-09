@@ -1,9 +1,0 @@
-$(OBJECTS_DIR)/Poiseuille.o: Poiseuille.dep
-Poiseuille.dep: Poiseuille.C
-Poiseuille.dep: ../../src/lnInclude/ibm.h
-Poiseuille.dep: ../../src/lnInclude/mesh.h
-Poiseuille.dep: ../../src/lnInclude/fluid.h
-$(OBJECTS_DIR)/Poiseuille.o: $(EXE_DEP)
-$(OBJECTS_DIR)/Poiseuille.o:
-	@SOURCE_DIR=.
-	SOURCE=Poiseuille.C ; $(Ctoo)
